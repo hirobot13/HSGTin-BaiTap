@@ -9,4 +9,5 @@ Bước 1:  Nhập test case vào từng input tương ứng của từng bài:
   + File input4.txt, output4.txt của bài tập 4
   + File input5.txt, output5.txt của bài tập 5
   + File input6.txt, output6.txt của bài tập 6
+  
 Bước 2: Chạy file Btap.exe(Đối với Windows) rồi kiểm tra kết quả ở các file output tương ứng.
