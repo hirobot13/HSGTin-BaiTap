@@ -1,0 +1,11 @@
+C:\Users\pteam\Dropbox\HSGTin\Btap\Btap\bin\Debug\netcoreapp3.0\Btap.exe
+C:\Users\pteam\Dropbox\HSGTin\Btap\Btap\bin\Debug\netcoreapp3.0\Btap.deps.json
+C:\Users\pteam\Dropbox\HSGTin\Btap\Btap\bin\Debug\netcoreapp3.0\Btap.runtimeconfig.json
+C:\Users\pteam\Dropbox\HSGTin\Btap\Btap\bin\Debug\netcoreapp3.0\Btap.runtimeconfig.dev.json
+C:\Users\pteam\Dropbox\HSGTin\Btap\Btap\bin\Debug\netcoreapp3.0\Btap.dll
+C:\Users\pteam\Dropbox\HSGTin\Btap\Btap\bin\Debug\netcoreapp3.0\Btap.pdb
+C:\Users\pteam\Dropbox\HSGTin\Btap\Btap\obj\Debug\netcoreapp3.0\Btap.csprojAssemblyReference.cache
+C:\Users\pteam\Dropbox\HSGTin\Btap\Btap\obj\Debug\netcoreapp3.0\Btap.AssemblyInfoInputs.cache
+C:\Users\pteam\Dropbox\HSGTin\Btap\Btap\obj\Debug\netcoreapp3.0\Btap.AssemblyInfo.cs
+C:\Users\pteam\Dropbox\HSGTin\Btap\Btap\obj\Debug\netcoreapp3.0\Btap.dll
+C:\Users\pteam\Dropbox\HSGTin\Btap\Btap\obj\Debug\netcoreapp3.0\Btap.pdb
